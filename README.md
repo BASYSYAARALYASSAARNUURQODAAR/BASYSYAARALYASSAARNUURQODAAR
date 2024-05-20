@@ -5,7 +5,7 @@
 
 - 🌱 Saya sedang belajar **Linux, Centos dan Windows 7**
 
-- 👯 Saya berkolaborasi dengan **Eko Dimas Prasetyo**
+- 👯 Partner Saya Adalah **Eko Dimas Prasetyo**
 
 - 💬 Tanya saya tentang **CLI**
 
