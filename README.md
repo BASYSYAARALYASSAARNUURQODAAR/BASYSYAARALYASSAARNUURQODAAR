@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
-<h3 align="center">Seorang Cyber ​​Security yang bersemangat dari Indonesia</h3>
+<h3 align="center">Seorang Cyber ​​Security dan Front end Developer yang bersemangat dari Indonesia</h3>
 
 - 🔭 Saat ini saya bersekolah di * *SMKN 69 JAKARTA**
 
